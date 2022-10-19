@@ -10,7 +10,7 @@
 
 ## Practicalities
 
-- The course will take place remotely due to COVID restrictions. 
+- This is an online course. 
    - We will use [zoom](https://cern.zoom.us/j/405151509)
    - Please try it before the course starts, so that you're setup.
 - Every day we will have a mixture of theoretical and hands-on sessions. 
