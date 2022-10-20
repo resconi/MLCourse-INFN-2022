@@ -22,7 +22,7 @@
 - on the first day, open a terminal and clone this repository:
 
 ```
-git clone https://github.com/leggerf/MLCourse-INFN-2022.git
+git clone https://github.com/Course-bigDataAndML/MLCourse-INFN-2022.git
 ```
 - The Jupyter notebook documentation can be found [here](https://jupyter-notebook.readthedocs.io/en/stable/notebook.html) 
 
